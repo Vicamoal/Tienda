@@ -1,4 +1,4 @@
-# GUI in the Webview (Victoria Belle)
+# GUI in the Webview (Viviana Belle)
 This is the folder for Victoria Belle, a bot that demonstrates best practices for [creating GUI in the Messenger Platform's webview](https://developers.facebook.com/docs/messenger-platform/design-best-practices/guides/create-gui).
 
 **[<img src="../docs/assets/ViewMessenger.png" width="200">](https://m.me/VictoriaBelleCo)**
